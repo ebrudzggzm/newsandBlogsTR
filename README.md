@@ -1,6 +1,6 @@
-
 # React + Vite 
-- Real World News & Blog Project  
+- Real World News & Blogs Project  
+
 Bu proje, React ve Vite kullanılarak geliştirilen, haberleri ve yazarın blog yazılarını içeren bir uygulamadır.  
 
 ## ✨ Özellikler  
@@ -11,12 +11,13 @@ Bu proje, React ve Vite kullanılarak geliştirilen, haberleri ve yazarın blog 
 
 ## 🔗 Kullanılan API'ler  
 - **Haber Bilgileri:** [GNews API](https://gnews.io/)  
-- **Hava Durumu Bilgileri:** [OpenWeatherMap API](https://openweathermap.org/api)  
+- **Hava Durumu Bilgileri:** [OpenWeatherMap API](https://openweathermap.org/api) 
 
 ----------------------------------------------------------------------------
 
-# React + Vite 
-- Real World News & Blog Project
+ # React + Vite 
+- Real World News & Blogs Project
+
 This project is a React + Vite application that provides the latest news and personal blog posts from the author.  
 
 ## ✨ Features  
